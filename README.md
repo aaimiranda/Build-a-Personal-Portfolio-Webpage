@@ -9,7 +9,7 @@ This files are part of the fifth and last one work of the curriculum of the Resp
 * [Screenshot](#screenshot)
 
 ## General info
-This is a simple code using Html and CSS that made a portfolio web page.
+This is a simple code using Html and CSS that created a portfolio web page.
 	
 ## Technologies
 Project is created with:
